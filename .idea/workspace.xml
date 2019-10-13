@@ -7,14 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22f8f39-3439-4d51-a0a0-c0d0bdd75318" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/com/main/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/com/main/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/controller/HomeController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +179,7 @@
       <workItem from="1570520060208" duration="5939000" />
       <workItem from="1570816957870" duration="1281000" />
       <workItem from="1570905338923" duration="2059000" />
-      <workItem from="1570987763748" duration="995000" />
+      <workItem from="1570987763748" duration="1709000" />
     </task>
     <servers />
   </component>
